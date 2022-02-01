@@ -1,1 +1,3 @@
-# hackathon_utc_2019
+# Hackathon UTC 2019
+
+AR mapping with Unity
